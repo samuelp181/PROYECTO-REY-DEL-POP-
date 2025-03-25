@@ -1,0 +1,27 @@
+.principalPortafolio{
+    background-color:blanchedalmond;
+    width: 100%;
+    height: 550px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.Cuadro{
+    width: 950px;
+    height: 500px;
+    border: 1px solid black;
+    opacity: 50px;
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+.Cuadros{
+    width: 250px;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 30px;
+    margin-left: 30px;
+    align-content: center;
+    padding-left: 10px;
+    
+}

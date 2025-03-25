@@ -1,0 +1,99 @@
+.principalIngresar{
+    background:linear-gradient(70deg,blanchedalmond,rgb(214, 154, 63));
+    width: 100%;
+    height: 930px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+.Arriba{
+    background-color: wheat;
+    width: 320px;
+    height: 80px;
+    border-radius: 20px 20px 0px 0px;
+    border: 1px solid black;
+}
+.home{
+    position: relative;
+    left: 30px;
+    top: 10px;
+}
+
+.botonRegistro{
+    width: 100px;
+    height: 45px;
+    font-size: 22px;
+    background-color: rgb(230, 184, 115);
+    text-decoration: underline;
+    color: blanchedalmond;
+    cursor: pointer;
+    outline: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-top: none;
+    position: relative;
+    left: 150px;
+}
+
+.ingresar{
+    border: 1px solid rgb(20, 13, 13);
+    border-radius: 0px 0px 20px 20px;
+    width: 320px;
+    height: 500px;
+    box-shadow: 7px 7px 7px rgb(179, 144, 100);
+    
+}
+.logoRegistro{
+    position: relative;
+    left: 130px;
+    top: 30px;
+}
+
+
+.cajatexto{
+    width: 250px;
+    height: 60px;
+    border-radius: 20px 20px 20px 20px;
+    font-size: 15px;
+    background-color: white;
+    color: black;
+    outline: none;
+    margin: 3px;
+    position: relative;
+    left: 30px;
+    top: 25px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid burlywood;
+}
+.recordar{
+    position: relative;
+    left: 50px;
+}
+.Recordarcontraseña{
+    position: relative;
+    left: 50px;
+}
+.botoningreso{
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    background-color: blanchedalmond;
+    color: burlywood;
+    border-radius: 20px;
+    cursor: pointer;
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border: none;
+    position: relative;
+    top: 120px;
+    left: 80px;
+}
+.botoningreso:hover{
+    background-color: black;
+}
